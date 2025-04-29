@@ -1,2 +1,2 @@
-# kf2vec_WolModels
-WoL19 models used with kf2vec.
+# kf2vec_Wol19_Models
+This repository contains trained WoL19 models that were used to validate kf2vec.
